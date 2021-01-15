@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /_includes
+Disallow: /_layouts
+Disallow: /_posts
+Disallow: /_sass
+Disallow: /You_must_leave_no_stone_unturned_curiosity_is_the_key_to_success_in_this_field
